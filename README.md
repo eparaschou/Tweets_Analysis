@@ -1,5 +1,5 @@
 # Tweeter Sentiment Analysis
-## This project examines whether tweets coming from Iphones are more positive compared to tweets from Androids. The Android and iPhone tweets are clearly from different people. Tweets from these two devices are posted during different times of day, and the use of hashtags, links, and retweets are distinctive. What’s more, we can see that the Android tweets are angrier and more negative, while the iPhone tweets tend to be benign announcements and pictures. 
+This project examines whether tweets coming from Iphones are more positive compared to tweets from Androids. The Android and iPhone tweets are clearly from different people. Tweets from these two devices are posted during different times of day, and the use of hashtags, links, and retweets are distinctive. What’s more, we can see that the Android tweets are angrier and more negative, while the iPhone tweets tend to be benign announcements and pictures. 
 
 # Data Description
 * The dataset is by Brendan Brown, which contains all 35,000+ tweets from 2009 through 2018. The dataset is filtered for the period of June 1st, 2015 through November 8th, 2016.
