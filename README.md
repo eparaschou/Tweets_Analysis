@@ -17,7 +17,15 @@ This project examines whether tweets coming from Iphones are more positive compa
 <img width="684" alt="Screenshot 2023-12-16 at 5 35 25 PM" src="https://github.com/eparaschou/Tweets_Analysis/assets/148002149/db1b9825-83e8-4de9-b490-6b8d191bc418">
 
 * Most common tweeted words
-<img width="795" alt="Screenshot 2023-12-16 at 5 36 43 PM" src="https://github.com/eparaschou/Tweets_Analysis/assets/148002149/13c19983-946c-43f4-9f5d-832a0f7d5908">
+<img width="703" alt="Screenshot 2023-12-17 at 12 32 53 AM" src="https://github.com/eparaschou/Tweets_Analysis/assets/148002149/a14c16e6-f439-48af-a694-6293b4cded87">
+
+* Log Odds Ratio for Each Word by Device
+<img width="689" alt="Screenshot 2023-12-17 at 12 33 16 AM" src="https://github.com/eparaschou/Tweets_Analysis/assets/148002149/ed21b7ac-e066-40a9-bd51-9d87ccbd3992">
+
+* Log Odds Ratio for Each Word by Sentiment Group
+<img width="671" alt="Screenshot 2023-12-17 at 12 33 35 AM" src="https://github.com/eparaschou/Tweets_Analysis/assets/148002149/1e4ac692-4b73-4f5d-a265-7184dddfdf9f">
+
+
 
 # Conclusion 
 * There's a difference in style and sentiment between tweets from Android and iPhone users.
